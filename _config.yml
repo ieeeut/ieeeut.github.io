@@ -1,5 +1,5 @@
 # Site
-title:              Massively
+title:              IEEE UT
 bio:                'Jekyll version of the Massively theme by HTML5UP'
 description:        "Jekyll version of the Massively theme by HTML5UP"
 locale:             en_US
@@ -35,15 +35,13 @@ disqus_shortname:   default
 
 # Social
 analytics-id:       "default"
-twitter:            default
-facebook:           default
-instagram:          default
-github:             default
+facebook:           ieeeut
+github:             ieeeut
 
 # personal
-location:           Los Angeles, CA
-phone:              310-318-5555
-email:              info@default.com
+location:           Austin, TX
+phone:              +1 (512) 522-9703
+email:              ieee@ieeeut.org
 
 # Gems
 gems:
