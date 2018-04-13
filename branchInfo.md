@@ -22,4 +22,4 @@ In order to recognize committed members of IEEE, we have instituted the SPARK me
 
 A full breakdown of the IEEE student branch membership program can be accessed <a href="https://docs.google.com/document/d/1n4O5n9XH-ucMYmn88H-CEhjxLPQbjKUSxGbcgwb6gto/edit?usp=sharing">here</a>.
 
-If your organization is interested in supporting the Branch, please refer to the Corporate Partners page for more details or contact the Corporate Director (<a href="mailto:corporate.director@ieeeut.org">corporate.director@ieeeut.org</a>).
+If your organization is interested in supporting the Branch, please refer to the Corporate Partners <a href="https://ieeeut.github.io/partners/">page</a> for more details or contact the Corporate Director (<a href="mailto:corporate.director@ieeeut.org">corporate.director@ieeeut.org</a>).
